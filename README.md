@@ -1,4 +1,73 @@
-### Hi there 👋
+### Hi there 👋<h2> I'm Geovanni</h2>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h3> 👨🏻•💻 About Me </h3>
+
+
+
+- 🤔 &nbsp; Explore new technologies and develop automation solutions to ensure product quality.
+
+- 🎓 &nbsp; Study Systems Engineering and Programming.
+
+- 🌱 &nbsp; Learning about unit tests.
+
+- ✍️ &nbsp;  Implement agile solutions in all developments.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Python | Java | ruby | JS | MySQL
+
+- 🌐 &nbsp; HTML   | ReactJS | Flutter
+
+- 🤖 &nbsp; Selenium | Serenity BDD | Appium | Cypress | Maestro dev | Detox | RobotFramework
+
+<!--
+
+- 🛢 &nbsp; MySQL | MongoDB
+
+- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+
+-->
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | MixPanel
+
+<hr>
+
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='left'>
+
+<hr>
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/geovanni-quintero-09390192/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Geovanni%20Quintero-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="mailto:yovanni26@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yovanni26@gmail.com-red?style=flat-square&logo=gmail"></a>
+  
+<a href="#"><img alt="Phone" src="https://img.shields.io/badge/phone-%2B507%206034--0016-orange"></a>
+</p>
+
+
+
+<hr>
+
+
 
 <!--
 **gquintero26/gquintero26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
