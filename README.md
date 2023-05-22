@@ -20,15 +20,17 @@
 
 
 
-- 💻 &nbsp; Python | Java | ruby | JS | MySQL
+- 💻 &nbsp; Python | Java | ruby | JS 
 
 - 🌐 &nbsp; HTML   | ReactJS | Flutter
 
-- 🤖 &nbsp; Selenium | Serenity BDD | Appium | Cypress | Maestro dev | Detox | RobotFramework
+- 🤖 &nbsp; Selenium | Serenity BDD | Appium | Cypress | Mobile dev | Detox | RobotFramework
+
+- 🛢 &nbsp; MySQL | Dynamodb | Sybase | Oracle DB 
 
 <!--
 
-- 🛢 &nbsp; MySQL | MongoDB
+
 
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 
@@ -38,9 +40,9 @@
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 Additional features</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | MixPanel
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase🔥 | MixPanel📡 | BrowserStack📱 | Maestro Cloud📲 | metamap🔍  | Postman📳
 
 <hr>
 
